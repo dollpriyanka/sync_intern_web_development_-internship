@@ -1,4 +1,4 @@
-# sync_intern_web_development_-internship
+# sync_intern_web_development_internship
 Web Development Internship
 
 ```sh
