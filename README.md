@@ -12,7 +12,6 @@ Web Development Internship
 ```
 
 
-```sh
+
 * Task_1 deploy link:: https://taak1.vercel.app
 * Task_2 deploy link:: https://taak2-iota.vercel.app
-```
