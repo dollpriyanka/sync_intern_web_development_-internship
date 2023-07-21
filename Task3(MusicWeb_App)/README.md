@@ -6,3 +6,10 @@ This music player will have all the features found in a typical music player. Yo
 
 * IDE – Visual Code Studio. 
 * Skills Required – HTML, CSS, Javascript.
+
+* Screenshots are:
+
+![Alt text](image-1.png)
+
+
+
