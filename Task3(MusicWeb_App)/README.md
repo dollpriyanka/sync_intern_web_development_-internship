@@ -9,7 +9,7 @@ This music player will have all the features found in a typical music player. Yo
 
 * Screenshots are:
 
-![Alt text](image-1.png)
+
 
 
 
