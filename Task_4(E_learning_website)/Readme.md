@@ -1,7 +1,7 @@
 ## E_Learning_Website_Design
 
 ```sh
-E-learning is a learning system that contains the following features : 
+E-learning is a learning system that contains the following features :: 
  * Feature 1: Signing up online 
  * Feature 2: Facility of uploading documents online 
  * Feature 3: Responsive Design 
