@@ -8,7 +8,7 @@ Web Development Internship
 
 * Week 3 ->  Task 3    Create A Music Player using HTML,CSS, JavaScript.
 
-* Week 4 ->  Task 4    Create a E-Learning Website
+* Week 4 ->  Task 4    Create a E-Learning Website.
 ```
 
 ```sh
