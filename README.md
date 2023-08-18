@@ -1,5 +1,9 @@
 # sync_intern_web_development_internship
-Web Development Internship
+```sh
+
+   Web Development Internship
+```
+---
 
 ```sh
 * Week 1 ->  Task 1    Product Landing Page.
@@ -11,13 +15,20 @@ Web Development Internship
 * Week 4 ->  Task 4    Create a E-Learning Website.
 ```
 
+--- 
+
 ```sh
 
 * Task_1 deploy link:: https://taak1.vercel.app
 * Task_2 deploy link:: https://taak2-iota.vercel.app
 ```
+
+---
+
 Internship Offer Letter:
 ![image](https://github.com/dollpriyanka/sync_intern_web_development_-internship/assets/91906722/5b397701-0494-45a1-846b-cef72f4259de)
+
+---
 
 Internship Completion Certificate and LOR:
 ![image](https://github.com/dollpriyanka/sync_intern_web_development_-internship/assets/91906722/78e5eb03-75c9-4ea3-a369-f6b9b62de974)
